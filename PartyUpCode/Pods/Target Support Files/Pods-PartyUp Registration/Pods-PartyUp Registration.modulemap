@@ -1,0 +1,6 @@
+framework module Pods_PartyUp_Registration {
+  umbrella header "Pods-PartyUp Registration-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_PartyUp_RegistrationTests {
+  umbrella header "Pods-PartyUp RegistrationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
